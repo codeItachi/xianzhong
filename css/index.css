@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FE1';
+    src: url('../fonts/NotoSansHant-Bold.otf') format('woff');
+}
+@font-face {
+    font-family: 'FE4';
+    src: url('../fonts/NotoSansHant-Light.otf') format('woff');
+}
+
